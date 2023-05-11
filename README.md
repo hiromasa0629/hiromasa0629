@@ -21,8 +21,6 @@ Hey! My name is How Zheng, you can also call me Hiro. I am a Cadet @ 42KL, which
 
 ![Hiromasa's github stats](https://github-readme-stats-lovat-theta.vercel.app/api?username=hiromasa0629&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-lovat-theta.vercel.app/api/top-langs/?username=hiromasa0629&size_weight=0&count_weight=1&hide=Roff,Perl,TeX&theme=dark)
-
 
 ### 💳 Credit
 ⭐️ Template From [harshkumarkhatri](https://github.com/harshkumarkhatri) (Thanks!)
