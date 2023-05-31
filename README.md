@@ -10,6 +10,7 @@ Hey! My name is How Zheng, you can also call me Hiro. I am a Cadet @ 42KL, which
 - Front-end: **Reactjs, Bootstrap, Ant Design**
 - Backend: **NestJS, Laravel, Django**
 - DevOps: **Docker, Linux, VM**
+- Web3: EVM, Solidity, Hardhat
 - Leetcode/HackerRank: **C++**
 ## 📚 Learning
 - Ruby on Rails
