@@ -7,15 +7,13 @@
 
 Hey! My name is How Zheng, you can also call me Hiro. I am a Cadet @ 42KL, which is a zero tuition fees, zero teachers, pee-to-peer learning coding school. I enjoy coding, build stuff and web3. Do feel free to reach out to me if you would like to collaborate on some projects 🖥️!
 ## ⚡ Technologies
-- Front-end: **Reactjs, Bootstrap, Ant Design**
-- Backend: **NestJS, Laravel, Django**
-- DevOps: **Docker, Linux, VM**
-- Web3: EVM, Solidity, Hardhat
+- Front-end: **React, Tailwind, Ant Design**
+- Backend: **NestJS, Express, Django**
+- Cloud & DevOps: **Docker, Kubernetes, Pub/sub**
+- Web3: **Solidity, Hardhat, Ethers.js**
 - Leetcode/HackerRank: **C++**
 ## 📚 Learning
-- Ruby on Rails
-- Solidity (blockchain dev wannabe)
-- Web3.js
+- Rust
 ## Hello World! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://hiromasa.me)
