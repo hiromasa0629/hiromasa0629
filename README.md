@@ -9,7 +9,7 @@ Hey! My name is How Zheng, you can also call me Hiro. I am a Cadet @ 42KL, which
 ## ⚡ Technologies
 - Front-end: **React, Tailwind, Ant Design**
 - Backend: **NestJS, Express, Django**
-- Cloud & DevOps: **Docker, Kubernetes, Pub/sub**
+- Cloud & DevOps: **Docker, Kubernetes, Pub/sub, Tilt**
 - Web3: **Solidity, Hardhat, Ethers.js**
 - Leetcode/HackerRank: **C++**
 ## 📚 Learning
